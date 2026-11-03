@@ -1,0 +1,11 @@
+# Sum numbers from 1 to 10
+# x1 = 10 (counter)
+00a00093
+# x2 = 0 (sum)
+00000113
+# loop: x2 = x2 + x1
+00110133
+# x1 = x1 - 1
+fff08093
+# if x1 != 0 goto loop (-8 bytes -> 0x1FE in 13-bit branch format)
+fe009ce3

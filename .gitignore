@@ -1,0 +1,6 @@
+.DS_Store
+*.o
+rv32i_sim
+test_runner
+build/
+temp_*.hex
