@@ -124,6 +124,3 @@ The current codebase was intentionally engineered with modular components (`Alu`
 
 ---
 
-## Implementation Log
-
-All architecture details and step-by-step logs are tracked in [`memory.md`](memory.md).
